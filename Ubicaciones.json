@@ -1,0 +1,116 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0783075, 
+          "lon": -96.7191099
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/plazamazari.jpg"
+      },
+      "id": 1, 
+      "text": {
+        "title": "Plaza Mazari",
+        "description": "Plaza comercial con diversos negocios como: restaurantes, bancos, cafeterias, librerias, etc",
+        "footnote":"Hecho por Gerardo, Jesus, Adolfo y Aquino"
+      },
+      "imageURL":"https://raw.githubusercontent.com/jesusamador/layar_jesus/master/plazamazari.jpg"
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0719562,
+          "lon": -96.7113694
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/poing.png"
+      },
+      "id": 2, 
+      "text": {
+        "title": "Poing Poing",
+        "description":"Es un centro de entretenimiento familiar en donde se busca desde una temprana edad estimular y desarrollar la mente, imaginación y coordinación de los niños a través de múltiples juegos y actividades físicas que a su vez fomentan la muy necesaria interacción con otros niños de su mismo rango de edad"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0660765,
+          "lon": -96.7114358
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/polideportivo.jpg"
+      },
+      "id": 3, 
+      "text": {
+        "title": "Polideportivo Venustiano Carranza",
+        "description": "El Polideportivo Venustiano Carranza es un espacio público que cuenta con canchas de fútbol, multifuncionales, de frontón, pista de tartán con 1.5 kilómetros de longitud, ciclo pista y trota pista elevada, áreas de descanso, juegos infantiles y áreas verdes, que está a disposición de los deportistas y las familias oaxaqueñas para su uso gratuito",
+        "footnote":"Hecho por Gerardo, Jesus, Adolfo y Aquino"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0690137,
+          "lon": -96.7195964
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/llano.jpg"
+      },
+      "id": 4, 
+      "text": {
+        "title": "Parque Juarez el Llano",
+        "description":"El Paseo Juárez El Llano es un parque público del Centro Histórico de la ciudad de Oaxaca, uno de los más antiguos de dicha urbe.",
+        "footnote":"Hecho por Gerardo, Jesus, Adolfo y Aquino"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+         "lat": 17.0797324,
+          "lon": -96.7458335
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/alebrijes.png"
+      },
+      "id": 5, 
+      "text": {
+        "title": "Estadio Tecnologico",
+        "description":"El Estadio Tecnológico de Oaxaca es un estadio de fútbol que se localiza en Oaxaca, y es la casa del equipo Alebrijes de Oaxaca.",
+        "footnote":"Hecho por Gerardo, Jesus, Adolfo y Aquino"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+         "lat": 17.0763128,
+          "lon": -96.7587010
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/jesusamador/layar_jesus/master/cinemex.png"
+      },
+      "id": 6, 
+      "text": {
+        "title": "Cinemex Plaza Bella",
+        "description":"Cinemex es una empresa mexicana dedicada al desarrollo y operación de complejos múltiples de exhibición cinematográfica",
+        "footnote":"Hecho por Gerardo, Jesus, Adolfo y Aquino"
+      }
+    }
+  
+  ], 
+  "layer": "entretenimie37ka"
+}
